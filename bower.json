@@ -1,0 +1,22 @@
+{
+  "name": "Bootstrap Tutorial",
+  "authors": [
+    "md-mannan <mdmannan580@gmail.com>"
+  ],
+  "description": "Web Designing with Bootstrap By Strack Learner",
+  "main": "index.html",
+  "keywords": [
+    "Bootstrap",
+    "jquery",
+    "bopper.js",
+    "fontawesome"
+  ],
+  "license": "MIT",
+  "homepage": "lectue(num)/index.html",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^2.5.4",
+    "fontawesome": "^5.15.1"
+  }
+}
